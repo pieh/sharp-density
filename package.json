@@ -1,0 +1,9 @@
+{
+  "name": "sharp-density",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.25.2"
+  }
+}
